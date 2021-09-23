@@ -42,6 +42,8 @@ namespace ConsoleUI
                 {
                     Console.WriteLine(color.ColorName);
                 }
+
+
             }
             else
             {
